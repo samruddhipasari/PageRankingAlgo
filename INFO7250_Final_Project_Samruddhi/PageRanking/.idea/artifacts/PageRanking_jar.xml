@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="PageRanking:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/PageRanking_jar</output-path>
+    <root id="archive" name="PageRanking.jar">
+      <element id="module-output" name="PageRanking" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/hadoop-core-1.2.1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
